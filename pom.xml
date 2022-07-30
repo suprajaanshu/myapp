@@ -60,12 +60,12 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Supraja-releases</name>
+        <name>my-app-releases</name>
         <url>http://localhost:8046/artifactory/myapp-libs-release-local</url>
     </repository>
    <snapshotRepository>
         <id>snapshots</id>
-        <name>Supraja-snapshots</name>
+        <name>my-app-snapshots</name>
         <url>http://localhost:8046/artifactory/myapp-libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
